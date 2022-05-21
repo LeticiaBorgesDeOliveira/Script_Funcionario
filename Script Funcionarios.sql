@@ -1,6 +1,6 @@
-create database exercicio;
+create database EmpresaDB;
 
-use exercicio;
+use Empresadb;
 
 create table funcionarios
   (
